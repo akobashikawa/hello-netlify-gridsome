@@ -32,7 +32,7 @@ module.exports = {
     },
   ],
   templates: {
-    Post: "/blog/:year-:month-:day-:slug",
+    Post: "/blog/:slug",
   },
   css: {
     loaderOptions: {
