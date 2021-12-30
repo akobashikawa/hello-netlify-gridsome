@@ -1,12 +1,12 @@
 ---
 title: Second Post
 slug: second-post
+excerpt: This is a second post.
 date: 2021-12-29T12:00
 ---
-
 # This is first header
 
-This is my first paragraph!
+This is a second post.
 
 ## This is second header
 
@@ -22,12 +22,14 @@ function() {
 }
 ```
 
-You can also write **bold** or _italic_ in Markdown.
+You can also write **bold** or *italic* in Markdown.
 
 This is [Markdown](https://www.markdownguide.org/) hyperlink.
 
 1. Ordered list 1
 2. Ordered list 2
 
--   Unordered list 1
--   Unordered list 2
+* Unordered list 1
+* Unordered list 2
+
+Edited with NetlifyCMS.
