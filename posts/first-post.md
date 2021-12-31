@@ -1,8 +1,11 @@
 ---
 title: First Post
-slug: 2021-12-30-first-post
-excerpt: This is my first paragraph!
+slug: first-post
+description: This is my first paragraph!
 date: 2021-12-30T17:16:05.768Z
+tags:
+  - test
+  - development
 ---
 # This is first header
 
@@ -31,5 +34,3 @@ This is [Markdown](https://www.markdownguide.org/) hyperlink.
 
 * Unordered list 1
 * Unordered list 2
-
-Edited with NetlifyCMS.
