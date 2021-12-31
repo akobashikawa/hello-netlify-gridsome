@@ -1,6 +1,6 @@
 ---
 title: First Post
-slug: first-post
+slug: 2021-12-30-first-post
 excerpt: This is my first paragraph!
 date: 2021-12-30T17:16:05.768Z
 ---

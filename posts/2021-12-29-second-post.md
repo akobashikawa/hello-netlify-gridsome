@@ -1,6 +1,6 @@
 ---
 title: Second Post
-slug: second-post
+slug: 2021-12-29-second-post
 excerpt: This is a second post.
 date: 2021-12-29T12:00
 ---
