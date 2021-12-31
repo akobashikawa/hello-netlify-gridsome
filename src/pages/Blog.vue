@@ -32,9 +32,12 @@ export default {
     posts: allPost (sortBy: "date", order: DESC) {
       edges {
         node {
+          id
           title
-          date (format: "YYYY-MM-DD")
           path
+          tags
+          date (format: "YYYY-MM-DD")
+          description
         }
       }
     }
